@@ -16,6 +16,7 @@ function App() {
         <div className="information">
           <p>
             <strong>Estudiante:</strong> Cristian Camilo Osorio Latorre
+            Y nadie mas
           </p>
 
           <p>
