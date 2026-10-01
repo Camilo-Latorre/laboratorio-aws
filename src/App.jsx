@@ -28,7 +28,7 @@ function App() {
         </div>
 
         <div className="status">
-          Aplicación funcionando correctamente
+       Segundo despliegue realizado mediante CI/CD
         </div>
 
       </section>
