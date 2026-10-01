@@ -59,3 +59,10 @@ h2 {
   border-radius: 10px;
   font-weight: bold;
 }
+
+.footer-text {
+  margin-top: 25px;
+  text-align: center;
+  color: #6b7280;
+  font-size: 14px;
+}

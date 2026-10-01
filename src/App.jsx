@@ -31,6 +31,10 @@ function App() {
        Segundo despliegue realizado mediante CI/CD
         </div>
 
+        <p className="footer-text">
+        Flujo DevOps implementado con integración y despliegue continuo.
+        </p>
+
       </section>
     </main>
   )
